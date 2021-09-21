@@ -1,0 +1,39 @@
+#content{
+  border: solid 7px;
+  border-color: gray;
+  padding: 10px 0 40px 5px;
+  margin: 10px;
+  width: 380px;
+}
+
+.monitor{
+  padding: 0 5px;
+  background-color: black;
+  width: 348px;
+  height: 30px;
+  color: white;
+  font-size: 28px;
+  text-align: right;
+}
+
+.button-size{
+  margin-top: 3px;
+  width: 84px;
+  height: 28px;
+  background-color: lightgray;
+  border: solid 1px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 500;
+}
+
+.button-size2{
+  margin-top: 3px;
+  width: 172px;
+  height: 28px;
+  background-color: lightgray;
+  border: solid 1px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: 500;
+}
